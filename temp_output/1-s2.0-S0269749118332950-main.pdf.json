@@ -1,0 +1,525 @@
+{
+  "antibiotics": [
+    {
+      "name": "磺胺甲恶唑",
+      "concentration": "1.57e256.6 ng/L",
+      "unit": "ng/L",
+      "water_type": "地表水",
+      "sampling_info": "温榆河，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "磺胺甲恶唑",
+      "concentration": "ND-17.6 ng/L",
+      "unit": "ng/L",
+      "water_type": "地下水",
+      "sampling_info": "顺义区，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "磺胺甲噁唑",
+      "concentration": "1010.6 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲噁唑",
+      "concentration": "585 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲噁唑",
+      "concentration": "370 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲噁唑",
+      "concentration": "207.6 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲噁唑",
+      "concentration": "526 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲噁唑",
+      "concentration": "107.6 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲噁唑",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "医院污水进水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲噁唑",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "医院污水出水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲氧苄啶",
+      "concentration": "32.5e128 ng/L",
+      "unit": "ng/L",
+      "water_type": "地表水",
+      "sampling_info": "温榆河，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "磺胺甲氧苄啶",
+      "concentration": "ND-9.41 ng/L",
+      "unit": "ng/L",
+      "water_type": "地下水",
+      "sampling_info": "顺义区，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "磺胺甲氧苄啶",
+      "concentration": "460 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲氧苄啶",
+      "concentration": "582.09 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲氧苄啶",
+      "concentration": "70.01 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲氧苄啶",
+      "concentration": "81.53 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲氧苄啶",
+      "concentration": "1020 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲氧苄啶",
+      "concentration": "640 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲氧苄啶",
+      "concentration": "2490.3 ng/L",
+      "unit": "ng/L",
+      "water_type": "医院污水进水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺甲氧苄啶",
+      "concentration": "1546.61 ng/L",
+      "unit": "ng/L",
+      "water_type": "医院污水出水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺二甲嘧啶",
+      "concentration": "ND-4.11 ng/L",
+      "unit": "ng/L",
+      "water_type": "地表水",
+      "sampling_info": "温榆河，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "磺胺二甲嘧啶",
+      "concentration": "ND-1.67 ng/L",
+      "unit": "ng/L",
+      "water_type": "地下水",
+      "sampling_info": "顺义区，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "磺胺二甲嘧啶",
+      "concentration": "40.33 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺二甲嘧啶",
+      "concentration": "21.19 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺二甲嘧啶",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺二甲嘧啶",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺二甲嘧啶",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "磺胺二甲嘧啶",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "甲氧苄啶",
+      "concentration": "ND-73 ng/L",
+      "unit": "ng/L",
+      "water_type": "地表水",
+      "sampling_info": "温榆河，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "甲氧苄啶",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "地下水",
+      "sampling_info": "顺义区，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "甲氧苄啶",
+      "concentration": "560.8 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "甲氧苄啶",
+      "concentration": "140.37 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "甲氧苄啶",
+      "concentration": "143 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "甲氧苄啶",
+      "concentration": "60.98 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "甲氧苄啶",
+      "concentration": "300.77 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "甲氧苄啶",
+      "concentration": "91.26 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "甲氧苄啶",
+      "concentration": "844.77 ng/L",
+      "unit": "ng/L",
+      "water_type": "医院污水进水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "甲氧苄啶",
+      "concentration": "779.15 ng/L",
+      "unit": "ng/L",
+      "water_type": "医院污水出水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "诺氟沙星",
+      "concentration": "ND-113 ng/L",
+      "unit": "ng/L",
+      "water_type": "地表水",
+      "sampling_info": "温榆河，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "诺氟沙星",
+      "concentration": "ND-3.6 ng/L",
+      "unit": "ng/L",
+      "water_type": "地下水",
+      "sampling_info": "顺义区，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "诺氟沙星",
+      "concentration": "910 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "诺氟沙星",
+      "concentration": "113 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "诺氟沙星",
+      "concentration": "99.8 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "诺氟沙星",
+      "concentration": "5.1 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "诺氟沙星",
+      "concentration": "172.36 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "诺氟沙星",
+      "concentration": "5.1 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "诺氟沙星",
+      "concentration": "607 ng/L",
+      "unit": "ng/L",
+      "water_type": "医院污水进水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "诺氟沙星",
+      "concentration": "331 ng/L",
+      "unit": "ng/L",
+      "water_type": "医院污水出水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "环丙沙星",
+      "concentration": "ND-36.9 ng/L",
+      "unit": "ng/L",
+      "water_type": "地表水",
+      "sampling_info": "温榆河，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "环丙沙星",
+      "concentration": "ND-4.1 ng/L",
+      "unit": "ng/L",
+      "water_type": "地下水",
+      "sampling_info": "顺义区，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "环丙沙星",
+      "concentration": "98.4 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "环丙沙星",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "环丙沙星",
+      "concentration": "78.7 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "环丙沙星",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "环丙沙星",
+      "concentration": "51.6 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "环丙沙星",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "环丙沙星",
+      "concentration": "8480 ng/L",
+      "unit": "ng/L",
+      "water_type": "医院污水进水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "环丙沙星",
+      "concentration": "3784.4 ng/L",
+      "unit": "ng/L",
+      "water_type": "医院污水出水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "恩诺沙星",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "地表水",
+      "sampling_info": "温榆河，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "恩诺沙星",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "地下水",
+      "sampling_info": "顺义区，2018年1月",
+      "context": "表1"
+    },
+    {
+      "name": "恩诺沙星",
+      "concentration": "63.99 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "恩诺沙星",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "密云区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "恩诺沙星",
+      "concentration": "41.9 ng/L",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "恩诺沙星",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "污水处理厂出水",
+      "sampling_info": "朝阳区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "恩诺沙星",
+      "concentration": "ND",
+      "unit": "ng/L",
+      "water_type": "污水处理厂进水",
+      "sampling_info": "海淀区，2018年1月",
+      "context": "表2"
+    },
+    {
+      "name": "恩诺沙星",
+      "concentration": "

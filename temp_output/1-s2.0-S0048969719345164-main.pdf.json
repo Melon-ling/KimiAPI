@@ -1,0 +1,76 @@
+```json
+[
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration_value": "15.0 ng/L",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Chaobai River, 2017年",
+        "original_context": "结果表明SDZ,SMX,SMRandTMP是河流样本中检测到的四种SAs，其中SDZ的中位数浓度为15.0 ng/L。"
+    },
+    {
+        "antibiotic_name": "磺胺甲噁唑",
+        "concentration_value": "1.0-15.0 ng/L",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Chaobai River, 2017年",
+        "original_context": "图 2 caption: 磺胺甲噁唑的中位数和最大浓度分别为1.0和15.0 ng/L。"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration_value": "15.0 ng/L",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Chaobai River, 2017年",
+        "original_context": "图 5b: 城市区域中，磺胺甲恶唑在春季和冬季的平均浓度分别为81.3和33.4 ng/L，而在夏季和秋季降至11.9和9.9 ng/L。"
+    },
+    {
+        "antibiotic_name": "四环素",
+        "concentration_value": "未检出",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Chaobai River, 2017年",
+        "original_context": "图 2 caption: 四环素在所有样本中均未检出。"
+    },
+    {
+        "antibiotic_name": "氟喹诺酮类",
+        "concentration_value": "1.0-1710.5 ng/L",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Chaobai River, 2017年",
+        "original_context": "结果表明氟喹诺酮类抗生素在地表水中的浓度范围为1.0到1710.5 ng/L。"
+    },
+    {
+        "antibiotic_name": "大环内酯类",
+        "concentration_value": "4.4-9.3 ng/L",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Chaobai River, 2017年",
+        "original_context": "大环内酯类抗生素AZN,CLA,ERY和ROX的中位数浓度分别为4.4,6.6,9.3和8.9 ng/L。"
+    },
+    {
+        "antibiotic_name": "磺胺嘧啶",
+        "concentration_value": "12.8 ng/L",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Chaobai River, 2017年",
+        "original_context": "SDZ,SMX,SMRandTMP是河流样本中检测到的四种SAs，其中磺胺嘧啶的中位数浓度为12.8 ng/L。"
+    },
+    {
+        "antibiotic_name": "磺胺二甲嘧啶",
+        "concentration_value": "3.3 ng/L",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Chaobai River, 2017年",
+        "original_context": "SDZ,SMX,SMRandTMP是河流样本中检测到的四种SAs，其中磺胺二甲嘧啶的中位数浓度为3.3 ng/L。"
+    },
+    {
+        "antibiotic_name": "磺胺地索辛",
+        "concentration_value": "7.8 ng/L",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Chaobai River, 2017年",
+        "original_context": "SDZ,SMX,SMRandTMP是河流样本中检测到的四种SAs，其中磺胺地索辛的中位数浓度为7.8 ng/L。"
+    }
+]
+```

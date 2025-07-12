@@ -1,0 +1,116 @@
+```json
+[
+    {
+        "antibiotic_name": "磺胺甲恶唑 (SDZ)",
+        "concentration_value": "93.10",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    },
+    {
+        "antibiotic_name": "磺胺甲噁唑 (SMZ)",
+        "concentration_value": "91.07",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    },
+    {
+        "antibiotic_name": "磺胺甲氧嘧啶 (SMX)",
+        "concentration_value": "89.61",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    },
+    {
+        "antibiotic_name": "甲氧苄啶 (TMP)",
+        "concentration_value": "89.66",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    },
+    {
+        "antibiotic_name": "诺氟沙星 (NOR)",
+        "concentration_value": "83.91",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    },
+    {
+        "antibiotic_name": "环丙沙星 (CIP)",
+        "concentration_value": "90.11",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    },
+    {
+        "antibiotic_name": "恩诺沙星 (ENR)",
+        "concentration_value": "85.35",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    },
+    {
+        "antibiotic_name": "氧氟沙星 (OFLO)",
+        "concentration_value": "101.07",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    },
+    {
+        "antibiotic_name": "司氟沙星 (SFLO)",
+        "concentration_value": "88.77",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    },
+    {
+        "antibiotic_name": "四环素 (TC)",
+        "concentration_value": "83.00",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    },
+    {
+        "antibiotic_name": "土霉素 (OTC)",
+        "concentration_value": "117.01",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    },
+    {
+        "antibiotic_name": "氯四环素 (CTC)",
+        "concentration_value": "84.64",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    },
+    {
+        "antibiotic_name": "红霉素 (ERM)",
+        "concentration_value": "91.99",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    },
+    {
+        "antibiotic_name": "罗红霉素 (ROM)",
+        "concentration_value": "87.63",
+        "concentration_unit": "%",
+        "water_type": "未明确",
+        "sampling_info": "未明确",
+        "original_context": "Table S3 Antibiotic recoveries of solid-phase extraction, relative standard deviation (RSD), limits of detection (LOD) and limits of quantification (LOQ)"
+    }
+]
+```

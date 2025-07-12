@@ -1,0 +1,68 @@
+```json
+[
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration_value": "未检出",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "北京潮白河，2017年12月",
+        "original_context": "摘要第3段"
+    },
+    {
+        "antibiotic_name": "四环素",
+        "concentration_value": "6.0%",
+        "concentration_unit": "百分比",
+        "water_type": "地表水",
+        "sampling_info": "北京潮白河，2017年12月",
+        "original_context": "摘要第3段"
+    },
+    {
+        "antibiotic_name": "氟喹诺酮",
+        "concentration_value": "3.2%",
+        "concentration_unit": "百分比",
+        "water_type": "地表水",
+        "sampling_info": "北京潮白河，2017年12月",
+        "original_context": "摘要第3段"
+    },
+    {
+        "antibiotic_name": "氨苄西林",
+        "concentration_value": "14.2%",
+        "concentration_unit": "百分比",
+        "water_type": "地表水",
+        "sampling_info": "北京潮白河，2017年12月",
+        "original_context": "摘要第3段"
+    },
+    {
+        "antibiotic_name": "多西环素",
+        "concentration_value": "6.0%",
+        "concentration_unit": "百分比",
+        "water_type": "地表水",
+        "sampling_info": "北京潮白河，2017年12月",
+        "original_context": "摘要第3段"
+    },
+    {
+        "antibiotic_name": "氯霉素",
+        "concentration_value": "3.2%",
+        "concentration_unit": "百分比",
+        "water_type": "地表水",
+        "sampling_info": "北京潮白河，2017年12月",
+        "original_context": "摘要第3段"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration_value": "8.5吨",
+        "concentration_unit": "吨",
+        "water_type": "地表水",
+        "sampling_info": "北京，2013年",
+        "original_context": "表S5"
+    },
+    {
+        "antibiotic_name": "34种常用抗生素",
+        "concentration_value": "180吨",
+        "concentration_unit": "吨",
+        "water_type": "地表水",
+        "sampling_info": "北京，2013年",
+        "original_context": "表S5"
+    }
+]
+```

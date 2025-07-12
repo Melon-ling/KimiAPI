@@ -1,0 +1,164 @@
+```json
+[
+    {
+        "antibiotic_name": "erythromycylamine",
+        "concentration": "299 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Liangma River, Tonghui River, Qing River, Liangshui River in Beijing, October 2017",
+        "original_context": "摘要第3段"
+    },
+    {
+        "antibiotic_name": "erythromycylamine",
+        "concentration": "1.83–23.2 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Liangma River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "erythromycylamine",
+        "concentration": "58.6–299 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Tonghui River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "erythromycylamine",
+        "concentration": "<0.13–154 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Qing River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "erythromycylamine",
+        "concentration": "3.90–31.3 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Liangshui River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "ampicillin",
+        "concentration": "18.0 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Tonghui River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "ampicillin",
+        "concentration": "<0.43–2.37 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Liangma River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "ampicillin",
+        "concentration": "<0.43–18.0 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Tonghui River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "ampicillin",
+        "concentration": "<0.43–3.47 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Qing River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "ampicillin",
+        "concentration": "<0.43 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Liangshui River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "cefotaxime",
+        "concentration": "12.4 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Qing River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "cefotaxime",
+        "concentration": "<0.66–1.23 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Liangma River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "cefotaxime",
+        "concentration": "5.03–10.2 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Tonghui River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "cefotaxime",
+        "concentration": "<0.66–5.41 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Qing River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "cefotaxime",
+        "concentration": "4.74–12.4 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Liangshui River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "fusidic acid",
+        "concentration": "<3.97 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Liangma River, Tonghui River, Qing River, Liangshui River in Beijing, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "fusidic acid",
+        "concentration": "<3.97 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Liangma River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "fusidic acid",
+        "concentration": "<3.97 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Tonghui River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "fusidic acid",
+        "concentration": "<3.97 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Qing River, October 2017",
+        "original_context": "表1"
+    },
+    {
+        "antibiotic_name": "fusidic acid",
+        "concentration": "<3.97 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Liangshui River, October 2017",
+        "original_context": "表1"
+    }
+]
+```

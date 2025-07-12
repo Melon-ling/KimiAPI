@@ -1,0 +1,576 @@
+{
+  "antibiotics": [
+    {
+      "name": "Sulfadiazine",
+      "concentration": "0.03 ng/L",
+      "unit": "ng/L",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfadiazine",
+      "concentration": "0.10 ng/L",
+      "unit": "ng/L",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfadiazine",
+      "concentration": "95.7%",
+      "unit": "%",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfadiazine",
+      "concentration": "3.9%",
+      "unit": "%",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfadiazine",
+      "concentration": "2.33 ng/g",
+      "unit": "ng/g",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfadiazine",
+      "concentration": "7.75 ng/g",
+      "unit": "ng/g",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfadiazine",
+      "concentration": "56.0%",
+      "unit": "%",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfadiazine",
+      "concentration": "6.2%",
+      "unit": "%",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfadiazine",
+      "concentration": "0.72 ng/g",
+      "unit": "ng/g",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfadiazine",
+      "concentration": "2.37 ng/g",
+      "unit": "ng/g",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfadiazine",
+      "concentration": "82.1%",
+      "unit": "%",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfadiazine",
+      "concentration": "5.5%",
+      "unit": "%",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "concentration": "2.12 ng/L",
+      "unit": "ng/L",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "concentration": "7.07 ng/L",
+      "unit": "ng/L",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "concentration": "84.0%",
+      "unit": "%",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "concentration": "6.4%",
+      "unit": "%",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "concentration": "0.92 ng/g",
+      "unit": "ng/g",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "concentration": "3.06 ng/g",
+      "unit": "ng/g",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "concentration": "61.3%",
+      "unit": "%",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "concentration": "4.3%",
+      "unit": "%",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "concentration": "1.01 ng/g",
+      "unit": "ng/g",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "concentration": "3.32 ng/g",
+      "unit": "ng/g",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "concentration": "79.2%",
+      "unit": "%",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "concentration": "7.8%",
+      "unit": "%",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Tetracycline",
+      "concentration": "0.12 ng/L",
+      "unit": "ng/L",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Tetracycline",
+      "concentration": "0.40 ng/L",
+      "unit": "ng/L",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Tetracycline",
+      "concentration": "71.7%",
+      "unit": "%",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Tetracycline",
+      "concentration": "12.5%",
+      "unit": "%",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Tetracycline",
+      "concentration": "0.30 ng/g",
+      "unit": "ng/g",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Tetracycline",
+      "concentration": "1.00 ng/g",
+      "unit": "ng/g",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Tetracycline",
+      "concentration": "68.0%",
+      "unit": "%",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Tetracycline",
+      "concentration": "7.1%",
+      "unit": "%",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Tetracycline",
+      "concentration": "0.46 ng/g",
+      "unit": "ng/g",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Tetracycline",
+      "concentration": "1.52 ng/g",
+      "unit": "ng/g",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Tetracycline",
+      "concentration": "83.9%",
+      "unit": "%",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Tetracycline",
+      "concentration": "3.5%",
+      "unit": "%",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Oxytetracycline",
+      "concentration": "2.17 ng/L",
+      "unit": "ng/L",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Oxytetracycline",
+      "concentration": "7.18 ng/L",
+      "unit": "ng/L",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Oxytetracycline",
+      "concentration": "68.0%",
+      "unit": "%",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Oxytetracycline",
+      "concentration": "7.3%",
+      "unit": "%",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Oxytetracycline",
+      "concentration": "0.34 ng/g",
+      "unit": "ng/g",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Oxytetracycline",
+      "concentration": "1.13 ng/g",
+      "unit": "ng/g",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Oxytetracycline",
+      "concentration": "71.3%",
+      "unit": "%",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Oxytetracycline",
+      "concentration": "4.9%",
+      "unit": "%",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Oxytetracycline",
+      "concentration": "0.95 ng/g",
+      "unit": "ng/g",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Oxytetracycline",
+      "concentration": "3.14 ng/g",
+      "unit": "ng/g",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Oxytetracycline",
+      "concentration": "77.2%",
+      "unit": "%",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Oxytetracycline",
+      "concentration": "4.4%",
+      "unit": "%",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Ofloxacin",
+      "concentration": "0.11 ng/L",
+      "unit": "ng/L",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Ofloxacin",
+      "concentration": "0.34 ng/L",
+      "unit": "ng/L",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Ofloxacin",
+      "concentration": "81.0%",
+      "unit": "%",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Ofloxacin",
+      "concentration": "9.1%",
+      "unit": "%",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Ofloxacin",
+      "concentration": "0.12 ng/g",
+      "unit": "ng/g",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Ofloxacin",
+      "concentration": "0.40 ng/g",
+      "unit": "ng/g",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Ofloxacin",
+      "concentration": "79.1%",
+      "unit": "%",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Ofloxacin",
+      "concentration": "10.2%",
+      "unit": "%",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Ofloxacin",
+      "concentration": "0.21 ng/g",
+      "unit": "ng/g",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Ofloxacin",
+      "concentration": "0.70 ng/g",
+      "unit": "ng/g",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Ofloxacin",
+      "concentration": "83.0%",
+      "unit": "%",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Ofloxacin",
+      "concentration": "6.1%",
+      "unit": "%",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Enrofloxacin",
+      "concentration": "0.52 ng/L",
+      "unit": "ng/L",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Enrofloxacin",
+      "concentration": "1.72 ng/L",
+      "unit": "ng/L",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Enrofloxacin",
+      "concentration": "80.3%",
+      "unit": "%",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Enrofloxacin",
+      "concentration": "7.9%",
+      "unit": "%",
+      "water_type": "Water",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Enrofloxacin",
+      "concentration": "0.13 ng/g",
+      "unit": "ng/g",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Enrofloxacin",
+      "concentration": "0.41 ng/g",
+      "unit": "ng/g",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Enrofloxacin",
+      "concentration": "81.3%",
+      "unit": "%",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Enrofloxacin",
+      "concentration": "6.6%",
+      "unit": "%",
+      "water_type": "Sediment",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Enrofloxacin",
+      "concentration": "0.24 ng/g",
+      "unit": "ng/g",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Enrofloxacin",
+      "concentration": "0.80 ng/g",
+      "unit": "ng/g",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Enrofloxacin",
+      "concentration": "92.6%",
+      "unit": "%",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified",
+      "original_context": "Table S2"
+    },
+    {
+      "name": "Enrofloxacin",
+      "concentration": "10.2%",
+      "unit": "%",
+      "water_type": "Suspended particulate matter",
+      "sampling_info": "Not specified

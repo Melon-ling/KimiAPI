@@ -1,0 +1,52 @@
+```json
+[
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration_value": "3.0 - 129.7 ng/L",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "清河，2011年9月",
+        "original_context": "表2 抗生素在2012年3月和2011年9月水体中的浓度汇总"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration_value": "4.3 - 185.9 ng/L",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "清河，2012年3月",
+        "original_context": "表2 抗生素在2012年3月和2011年9月水体中的浓度汇总"
+    },
+    {
+        "antibiotic_name": "氧氟沙星",
+        "concentration_value": "4.4 - 16952.5 ng/L",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "清河，2011年9月",
+        "original_context": "表2 抗生素在2012年3月和2011年9月水体中的浓度汇总"
+    },
+    {
+        "antibiotic_name": "氧氟沙星",
+        "concentration_value": "6.4 - 3146.7 ng/L",
+        "concentration_unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "清河，2012年3月",
+        "original_context": "表2 抗生素在2012年3月和2011年9月水体中的浓度汇总"
+    },
+    {
+        "antibiotic_name": "土霉素",
+        "concentration_value": "1.6 - 3320.3 μg/kg",
+        "concentration_unit": "μg/kg",
+        "water_type": "沉积物",
+        "sampling_info": "清河，2012年3月",
+        "original_context": "表3 不同抗生素在2012年3月和2011年9月沉积物中的分布情况汇总"
+    },
+    {
+        "antibiotic_name": "土霉素",
+        "concentration_value": "3.3 - 95.6 μg/kg",
+        "concentration_unit": "μg/kg",
+        "water_type": "沉积物",
+        "sampling_info": "清河，2011年9月",
+        "original_context": "表3 不同抗生素在2012年3月和2011年9月沉积物中的分布情况汇总"
+    }
+]
+```

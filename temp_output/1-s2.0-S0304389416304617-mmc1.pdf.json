@@ -1,0 +1,277 @@
+```json
+[
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "2.2-157.4 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "1-30.5 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Liao River, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "40 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "River water, Australia",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "1.5-332 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Segre, Llobregat, and Anoia River, Spain",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-2.1 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "0.03-0.8 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Huangpu River, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-5.3 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "0.5-2.8 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Segre, Llobregat, and Anoia River, Spain",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-3.4 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "0.01-64.4 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Plana de Vic and LaSelva, Catalonia, Spain",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-1.3 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "0.08-0.9 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Huangpu River, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-1.7 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "220 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Cache La Poudre, USA",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-123 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Han River, Korea",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "0.21-3.4 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Panjiakou Reservoir, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "<MDL-26.4 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Liao River, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-87.9 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "50-90 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Cache La Poudre, USA",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "<7.1 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Lake Michigan, US",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-80 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Han River, Korea",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "1 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Liao River, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-2.0 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "2.5-30 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Danube river, Italy",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-270 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Han River, Korea",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "<0.11-7.23 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Panjiakou Reservoir, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-276.2 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "250 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "River water, Australia",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-499 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "1.5-24.6 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Huangpu River, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-1320 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "600-2330 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Arc River, France",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-96.9 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-39 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Danube river, Italy",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "1.3 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Huangpu River, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-4.1 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "25-1163 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Singapore",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-6402 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Jiyun River, Hai River and Duliu River, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "nd-3577 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "Table S5, Compound Concentration(ng/L) Location Reference"
+    }
+]
+```

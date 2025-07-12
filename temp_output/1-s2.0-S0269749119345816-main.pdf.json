@@ -1,0 +1,60 @@
+```json
+[
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "77 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "北京市，2013-2017年",
+        "original_context": "摘要第3段"
+    },
+    {
+        "antibiotic_name": "纳利沙星",
+        "concentration": "135 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "北京市，2013-2017年",
+        "original_context": "摘要第3段"
+    },
+    {
+        "antibiotic_name": "红霉素",
+        "concentration": "64 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "北京市，2013-2017年",
+        "original_context": "摘要第3段"
+    },
+    {
+        "antibiotic_name": "克拉霉素",
+        "concentration": "高于100 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "北京市，2013-2017年",
+        "original_context": "摘要第3段"
+    },
+    {
+        "antibiotic_name": "磺胺二甲嘧啶",
+        "concentration": "高于100 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "北京市，2013-2017年",
+        "original_context": "摘要第3段"
+    },
+    {
+        "antibiotic_name": "甲氧苄氨嘧啶",
+        "concentration": "高于100 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "北京市，2013-2017年",
+        "original_context": "摘要第3段"
+    },
+    {
+        "antibiotic_name": "林可霉素",
+        "concentration": "高于100 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "北京市，2013-2017年",
+        "original_context": "摘要第3段"
+    }
+]
+```

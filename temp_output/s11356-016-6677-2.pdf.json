@@ -1,0 +1,124 @@
+```json
+[
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "平均值 16.75 ng/L，最大值 62.45 ng/L，最小值 <LOQ",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "平均值 35.36 ng/g，最大值 121 ng/g，最小值 <LOQ",
+        "unit": "ng/g",
+        "water_type": "沉积物",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "未检出",
+        "unit": "ng/g",
+        "water_type": "悬浮颗粒物 (SPM)",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "磺胺二甲嘧啶",
+        "concentration": "平均值 54.65 ng/L，最大值 230 ng/L，最小值 <LOQ",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "磺胺二甲嘧啶",
+        "concentration": "平均值 1.60 ng/g，最大值 5.81 ng/g，最小值 <LOQ",
+        "unit": "ng/g",
+        "water_type": "沉积物",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "四环素",
+        "concentration": "平均值 2.17 ng/L，最大值 11.00 ng/L，最小值 <LOQ",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "四环素",
+        "concentration": "平均值 5.16 ng/g，最大值 15.70 ng/g，最小值 <LOQ",
+        "unit": "ng/g",
+        "water_type": "沉积物",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "土霉素",
+        "concentration": "平均值 10.78 ng/L，最大值 100 ng/L，最小值 <LOQ",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "土霉素",
+        "concentration": "平均值 21.22 ng/g，最大值 81.41 ng/g，最小值 <LOQ",
+        "unit": "ng/g",
+        "water_type": "沉积物",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "土霉素",
+        "concentration": "平均值 34.98 ng/g，最大值 130.20 ng/g，最小值 3.85 ng/g",
+        "unit": "ng/g",
+        "water_type": "悬浮颗粒物 (SPM)",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "环丙沙星",
+        "concentration": "平均值 27.89 ng/L，最大值 102 ng/L，最小值 1.34 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "环丙沙星",
+        "concentration": "平均值 1.64 ng/g，最大值 8.77 ng/g，最小值 0.61 ng/g",
+        "unit": "ng/g",
+        "water_type": "沉积物",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "恩诺沙星",
+        "concentration": "平均值 3.79 ng/L，最大值 13.41 ng/L，最小值 1.75 ng/L",
+        "unit": "ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "恩诺沙星",
+        "concentration": "平均值 0.06 ng/g，最大值 0.27 ng/g，最小值 <LOQ",
+        "unit": "ng/g",
+        "water_type": "沉积物",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    },
+    {
+        "antibiotic_name": "恩诺沙星",
+        "concentration": "平均值 20.62 ng/g，最大值 117.72 ng/g，最小值 1.71 ng/g",
+        "unit": "ng/g",
+        "water_type": "悬浮颗粒物 (SPM)",
+        "sampling_info": "Jiyun River, May and December 2012",
+        "original_context": "Table 1"
+    }
+]
+```

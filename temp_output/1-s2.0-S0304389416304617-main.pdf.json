@@ -1,0 +1,67 @@
+```json
+[
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "中位数0.66-3.6 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Grand River watershed in Southern Ontario, Canada, 干季",
+        "original_context": "引用自文献[39]"
+    },
+    {
+        "antibiotic_name": "磺胺甲恶唑",
+        "concentration": "最高浓度276 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "正文第3.1节"
+    },
+    {
+        "antibiotic_name": "磺胺二甲嘧啶",
+        "concentration": "最高浓度157 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "正文第3.1节"
+    },
+    {
+        "antibiotic_name": "甲氧苄氨嘧啶",
+        "concentration": "最高浓度141 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "正文第3.1节"
+    },
+    {
+        "antibiotic_name": "青霉素G",
+        "concentration": "范围ND到499 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "正文第3.1节"
+    },
+    {
+        "antibiotic_name": "红霉素",
+        "concentration": "最高1320 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China, 2015年11月",
+        "original_context": "正文第3.1节"
+    },
+    {
+        "antibiotic_name": "氯霉素",
+        "concentration": "平均3.4 ng/L，最高22.5 ng/L",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "正文第3.1节"
+    },
+    {
+        "antibiotic_name": "磺胺甲噁唑",
+        "concentration": "高生态风险，HQ范围1.0到9.2",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "正文第3.4节"
+    },
+    {
+        "antibiotic_name": "青霉素G",
+        "concentration": "HQ高达83",
+        "water_type": "地表水",
+        "sampling_info": "Beiyun River basin, Beijing, China",
+        "original_context": "正文第3.4节"
+    }
+]
+```
